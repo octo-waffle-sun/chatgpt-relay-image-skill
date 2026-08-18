@@ -99,7 +99,7 @@ launchctl setenv RELAY_IMAGE_API_KEY "your-relay-api-key"
 
 ## 可复制的提示词
 
-为保证生成的 Skill 和界面信息使用英文，请直接使用下面的英文提示词：
+请直接使用下面的英文提示词：
 
 ````text
 Create or update a global Codex skill named {{SKILL_NAME}} for image generation and image editing through an OpenAI-compatible relay.
